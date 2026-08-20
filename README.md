@@ -36,7 +36,7 @@ An end-to-end data analytics project focused on analyzing e-commerce sales perfo
 
 ## 🎯 Career Focus
 
-I am looking for an opportunities as a **Data Analyst / BI Analyst**, where I can use data to support business decisions and solve real-world problems.
+I am looking for an opportunity as a Data Analyst / BI Analyst, where I can use data to support business decisions and solve real-world problems.
 
 ## 📫 Contact
 
