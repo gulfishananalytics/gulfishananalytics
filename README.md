@@ -27,6 +27,23 @@ An end-to-end data analytics project focused on analyzing e-commerce sales perfo
 - Business KPIs and trends
 - Interactive Power BI dashboard
 
+
+### Employee Performance & Workforce Analytics
+
+An end-to-end data analytics project focused on analyzing employee performance and workforce trends to generate HR insights.
+
+**Tools Used:** SQL | Power BI
+
+**Key Analysis:**
+- Employee performance and department analysis
+- Resignation and retention trends
+- Attendance and absenteeism analysis
+- Salary and compensation analysis
+- Training and promotion analysis
+- Interactive Power BI HR dashboard
+
+Aspiring Data Analyst | PostgreSQL | SQL | Power BI | Advanced Excel
+
 ## 📚 Currently Learning
 
 - Advanced SQL
